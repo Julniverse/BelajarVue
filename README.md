@@ -1,7 +1,7 @@
 # Belajar Vue 
 
 This template should help get you started developing with Vue 3 in Vite.
-dengan bantuan video dari VIP CODE STUDIO (https://www.youtube.com/@vipcodestudio)
+Pembelajaran ini datang dengan bantuan video dari VIP CODE STUDIO (https://www.youtube.com/@vipcodestudio)
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
