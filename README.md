@@ -1,4 +1,4 @@
-# day2
+# Belajar Vue dengan bantuan video dari VIP CODE STUDIO (https://www.youtube.com/@vipcodestudio)
 
 This template should help get you started developing with Vue 3 in Vite.
 
